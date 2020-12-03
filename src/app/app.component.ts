@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'frontEvent';
+  apikey = 'TVF5ZK7LOZXZTXCBAS3U';
 }
